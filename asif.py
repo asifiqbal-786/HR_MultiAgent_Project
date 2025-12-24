@@ -4,7 +4,7 @@ from openai import AzureOpenAI
 from dotenv import load_dotenv
 load_dotenv()
 
-# ========= CONFIG & LOGGING ========= #
+## ========= CONFIG & LOGGING ========= ##
 
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")  # e.g. https://ai-services-...cognitiveservices.azure.com/
