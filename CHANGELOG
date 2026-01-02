@@ -1,0 +1,4 @@
+## v1.0.0
+- Initial multi-agent HR analytics release
+- Supervisor-based routing
+- DuckDB SQL execution

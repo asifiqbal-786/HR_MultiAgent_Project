@@ -1,0 +1,5 @@
+[project]
+name = "hr-multiagent"
+version = "1.0.0"
+description = "Multi-agent HR recruitment analytics system"
+requires-python = ">=3.10"

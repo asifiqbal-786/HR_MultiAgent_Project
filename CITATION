@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "HR Multi-Agent Recruitment Analytics System"
+message: "If you use this project, please cite it."
+type: software
+authors:
+  - family-names: Iqbal
+    given-names: Asif
+version: 1.0.0
+date-released: 2026-01-02
+url: https://github.com/your-username/HR_MULTIAGENT_PROJECT
