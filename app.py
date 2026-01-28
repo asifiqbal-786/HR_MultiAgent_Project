@@ -12,7 +12,7 @@ AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 AZURE_OPENAI_MODEL = os.getenv("AZURE_OPENAI_MODEL")
 AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION")
 
-DATA_DIR = r"C:\Users\aisiq\OneDrive\Desktop\Recruitment_Data_Analysis"
+DATA_DIR = r"D:\Recruitment_Data_Analysis"
 
 print("[LOG] Initializing Azure OpenAI client...")
 client = AzureOpenAI(
